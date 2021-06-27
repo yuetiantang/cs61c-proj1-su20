@@ -1,0 +1,180 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28314 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: cannot open file 'kernel32.lib'
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/15109/Desktop/cs61c/projects/su20-proj1-yuetiantang/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_751b1\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_751b1.dir\build.make /nologo -L                  CMakeFiles\cmTC_751b1.dir\build
+Building C object CMakeFiles/cmTC_751b1.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15109\AppData\Local\Temp\nmE1C5.tmp
+testCCompiler.c
+Linking C executable cmTC_751b1.exe
+	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_751b1.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_751b1.dir\objects1.rsp @C:\Users\15109\AppData\Local\Temp\nmE33D.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_751b1.dir/manifest.res CMakeFiles\cmTC_751b1.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28314 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: cannot open file 'kernel32.lib'
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/15109/Desktop/cs61c/projects/su20-proj1-yuetiantang/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_7b82d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_7b82d.dir\build.make /nologo -L                  CMakeFiles\cmTC_7b82d.dir\build
+Building C object CMakeFiles/cmTC_7b82d.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15109\AppData\Local\Temp\nm8F5B.tmp
+testCCompiler.c
+Linking C executable cmTC_7b82d.exe
+	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7b82d.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_7b82d.dir\objects1.rsp @C:\Users\15109\AppData\Local\Temp\nm90E3.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_7b82d.dir/manifest.res CMakeFiles\cmTC_7b82d.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28314 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: cannot open file 'kernel32.lib'
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/15109/Desktop/cs61c/projects/su20-proj1-yuetiantang/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_8b3f6\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_8b3f6.dir\build.make /nologo -L                  CMakeFiles\cmTC_8b3f6.dir\build
+Building C object CMakeFiles/cmTC_8b3f6.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15109\AppData\Local\Temp\nm742E.tmp
+testCCompiler.c
+Linking C executable cmTC_8b3f6.exe
+	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8b3f6.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_8b3f6.dir\objects1.rsp @C:\Users\15109\AppData\Local\Temp\nm748D.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_8b3f6.dir/manifest.res CMakeFiles\cmTC_8b3f6.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28314 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: cannot open file 'kernel32.lib'
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/15109/Desktop/cs61c/projects/su20-proj1-yuetiantang/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_732c8\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_732c8.dir\build.make /nologo -L                  CMakeFiles\cmTC_732c8.dir\build
+Building C object CMakeFiles/cmTC_732c8.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15109\AppData\Local\Temp\nm5F1A.tmp
+testCCompiler.c
+Linking C executable cmTC_732c8.exe
+	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_732c8.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_732c8.dir\objects1.rsp @C:\Users\15109\AppData\Local\Temp\nm6073.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_732c8.dir/manifest.res CMakeFiles\cmTC_732c8.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.24.28314/bin/Hostx86/x86/cl.exe 
+Build flags: /DWIN32;/D_WINDOWS
+Id flags:  
+
+The output was:
+2
+Microsoft (R) C/C++ Optimizing Compiler Version 19.24.28314 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.24.28314.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+LINK : fatal error LNK1104: cannot open file 'kernel32.lib'
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/15109/Desktop/cs61c/projects/su20-proj1-yuetiantang/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):nmake /nologo cmTC_22214\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe" -f CMakeFiles\cmTC_22214.dir\build.make /nologo -L                  CMakeFiles\cmTC_22214.dir\build
+Building C object CMakeFiles/cmTC_22214.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\cl.exe @C:\Users\15109\AppData\Local\Temp\nmE033.tmp
+testCCompiler.c
+Linking C executable cmTC_22214.exe
+	"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_22214.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests  -- C:\PROGRA~2\MICROS~2\2019\COMMUN~1\VC\Tools\MSVC\1424~1.283\bin\Hostx86\x86\link.exe /nologo @CMakeFiles\cmTC_22214.dir\objects1.rsp @C:\Users\15109\AppData\Local\Temp\nmE17C.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_22214.dir/manifest.res CMakeFiles\cmTC_22214.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\bin\HostX86\x86\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
